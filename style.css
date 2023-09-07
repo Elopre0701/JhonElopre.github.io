@@ -125,7 +125,7 @@ nav.sticky .menu-btn{
   font-size: 100px;
   color: #100C08;
   animation: bounceAnimation 1s infinite;
-  text-shadow: 4px 4px 6px rgb(255, 252, 252);
+  text-shadow: 10px 10px 20px rgb(255, 252, 252);
         }
 
         @keyframes bounceAnimation {
